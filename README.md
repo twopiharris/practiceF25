@@ -5,9 +5,14 @@ practicing git and codespaces
 
 * one
 * two
-* three
-  *italic*
+* three  
+
+  *italic*  
   **bold**
+
+
+Here is some C code  
+I made these changes locally on my laptop
 
 ```
 #include <stdio.h>
