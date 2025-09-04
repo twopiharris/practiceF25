@@ -1,6 +1,8 @@
 Hello
    Now we can type like normal
 This is fun
+
 I can type whatever I want
+This is regular typing
 
 
